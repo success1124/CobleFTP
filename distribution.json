@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "cbsv-1.21.1",
-      "name": "cbsv (Minecraft 1.21.1)",
-      "description": "cbsv Running Minecraft 1.21.1 (Fabric v0.16.14)",
+      "name": "코블몬 서버",
+      "description": " ",
       "icon": "https://success1124.github.io/CobleFTP/servers/cbsv-1.21.1/icon.png",
       "version": "1.0.0",
       "address": "바보병신.서버.한국:25565",
