@@ -20,8 +20,8 @@
         "largeImageText": "사기리 내꺼",
         "largeImageKey": "sagiri"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.14",

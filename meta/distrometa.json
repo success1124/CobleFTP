@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/yamcw/Desktop/serverdata/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "htt://localhost:8080/news.xml",
+    "rss": "https://success1124.github.io/CobleFTP/news.xml",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
