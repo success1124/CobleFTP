@@ -1,5 +1,5 @@
 {
-  "$schema": "https://success1124.github.io/CobleFTP/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/yamcw/Desktop/serverdata/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "https://success1124.github.io/CobleFTP/news.xml",
     "discord": {
