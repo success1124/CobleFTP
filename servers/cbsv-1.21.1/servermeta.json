@@ -1,11 +1,11 @@
 {
-  "$schema": "file:///C:/Users/yamcw/Desktop/serverdata/schemas/ServerMetaSchema.schema.json",
+  "$schema": "https://success1124.github.io/CobleFTP/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "코블몬 서버",
     "description": " ",
     "icon": "",
-    "address": "49.167.113.75:25565",
+    "address": "바보병신.서버.한국:25565",
     "discord": {
       "shortId": "",
       "largeImageText": "사기리 내꺼",
